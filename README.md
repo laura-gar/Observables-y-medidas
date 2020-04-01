@@ -25,3 +25,7 @@ Verificar que las matrices U1 y U2 son unitarias y si el producto entre ellas da
 Si una de las dos matrices no son unitarias (como en este caso la matriz U2), el producto entre ellas no será unitario.
 
 ## Ejercicio 4.4.2
+Utilizando la matriz dada y un estado inical, encontrar la probabilidad de que la particula se encuentre en la tercera
+posición luego de 3 clicks
+
+![image](https://user-images.githubusercontent.com/60012037/78165637-3cb54480-7411-11ea-8992-ce3104271034.png)

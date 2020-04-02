@@ -15,7 +15,7 @@ Calcular la probabilidad de que los estados e1 y e2 transiten a los vectores pro
 Para calcular la probabilidad, se realiza el producto interno entre los estados e1 y e2 con los vectores propios de
 los observables. Luego, se saca el modulo al cuadrado de cada uno y se multiplica por l1 y l2 respectivamente
 
-![image](https://user-images.githubusercontent.com/60012037/78202840-fbe21d80-745a-11ea-9a93-d10bcf84bf7f.png)
+![image](https://user-images.githubusercontent.com/60012037/78203539-e53cc600-745c-11ea-97ac-99ac540f6113.png)
 
 ## Ejercicio 4.4.1
 Verificar que las matrices U1 y U2 son unitarias y si el producto entre ellas da una matriz unitaria
